@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**johnnyhoenig/Johnnyhoenig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Habilidades Técnicas:
+    Linguagens de Programação: JavaScript, Java, Python
+    Tecnologias e Ferramentas: REST, HTML, CSS, PostgreSQL, Git
+    Metodologias Ágeis: Scrum, Kanban
+🚀 Projetos:
+    Desenvolvimento de uma API que se comunica com banco de dados.
+📚 Aprendizado Contínuo:
+    Explorando áreas como Machine Learning e Visão Computacional.
+    Sempre buscando soluções para problemas e novas tecnologias para aprimorar minhas habilidades.
+🌟 Objetivo:
+    Tornar-me um desenvolvedor back-end proficiente e contribuir para projetos desafiadores e inovadores.
+📫 Contato:
+    
